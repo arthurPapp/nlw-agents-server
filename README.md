@@ -37,7 +37,7 @@ npm install
 Crie um arquivo `.env` na raiz do projeto:
 ```env
 PORT=3333
-DATABASE_URL=postgresql://docker:123456@localhost:5432/agents
+DATABASE_URL=postgresql://888:888@localhost:5432/agents
 ```
 
 ### 4. Inicie o banco de dados
